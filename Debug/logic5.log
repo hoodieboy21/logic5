@@ -1,0 +1,4 @@
+﻿  logic5.cpp
+C:\Users\zorro\source\repos\logic5\logic5.cpp(45,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic5\logic5.cpp(109,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  logic5.vcxproj -> C:\Users\zorro\source\repos\logic5\Debug\logic5.exe
